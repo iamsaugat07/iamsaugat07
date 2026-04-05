@@ -1,16 +1,29 @@
-## Hi there 👋
+**saugat** &nbsp;·&nbsp; kathmandu, np
 
-<!--
-**iamsaugat07/iamsaugat07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+# mobile engineer *who ships.*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Self-taught developer who started coding before AI wrote the code for you.  
+Building apps for enterprises and the teams that run them.
+
+---
+
+**stack**
+```
+flutter  /  react native  /  typescript
+firebase  /  supabase  /  ble · iot
+```
+
+---
+
+**shipped**
+
+| | |
+|---|---|
+| [SevenLedger](#) | POS system for small businesses · React Native + Firebase |
+| [CreditEazy](#) | Credit management for field teams · Flutter + Supabase |
+
+---
+
+🟢 &nbsp;open to freelance &nbsp;&nbsp; [upwork ↗](#) &nbsp;&nbsp; [linkedin ↗](#)
