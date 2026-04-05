@@ -19,4 +19,4 @@ A problem solver, not a stack bloater.
 
 ---
 
-🟢 &nbsp;open to freelance &nbsp;&nbsp; [upwork ↗](https://www.upwork.com/freelancers/saugatpandey2?mp_source=share) &nbsp;&nbsp; [linkedin ↗](linkedin.com/in/saugat-pandey-b437b3148)
+🟢 &nbsp;open to freelance &nbsp;&nbsp; [upwork ↗](https://www.upwork.com/freelancers/saugatpandey2?mp_source=share) &nbsp;&nbsp; [linkedin ↗](https://www.linkedin.com/in/saugat-pandey-b437b3148/)
