@@ -4,7 +4,7 @@
 
 # mobile engineer 
 
-Self-taught developer who started coding before AI wrote the code for you.  
+Self-taught developer.
 I build production systems for enterprises, not just app screens.  
 A problem solver, not a stack bloater.
 
